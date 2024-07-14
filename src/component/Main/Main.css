@@ -84,7 +84,7 @@
     cursor: pointer;
 }
 .search-box input{
-    flex:1;
+    flex:1 ;
     background: transparent;
     border: none;
     outline: none;
